@@ -1,0 +1,15 @@
+{
+  "name": "senior-coding-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://bitbucket.org/electricityexchange/senior-coding-challenge.git",
+  "author": "BrianDGLS <briandgls92@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "twitter": "^1.7.1"
+  }
+}
